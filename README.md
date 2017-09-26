@@ -28,7 +28,3 @@ created transaction.
 For additional options:
 
 `./dust-cleaner.py --help`
-
-Donations are welcome to support this project:
-* MKJxatRKSw9gTN1VJfVcHPDAbSKxWq97L5 (Myriadcoin)
-* 1JffmEok4VbN3ZfGnHx84q9PEcHfH4Qfyw (Bitcoin)
